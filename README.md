@@ -69,8 +69,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## How to Install
 <ul>
-    <li>git clone repo ini ke folder yang dimau dengan cara memberikan command pada terminal <b>Git Bash</b> : <i>git clone https://github.com/KhodimulAzmi/frontend-uas-pbf-230202085
-.git</i></li>
+    <li>git clone repo ini ke folder yang dimau dengan cara memberikan command pada terminal <b>Git Bash</b> : <i>git clone https://github.com/KhodimulAzmi/frontend-uas-pbf-230202085.git</i></li>
     <li>Masuk ke folder project dengan melakukan command <b><i></i>cd frontend-uas-230202085</i></b></li>
     <li>Setelah masuk, install composer dengan memberikan command <b><i>composer install>/i></b></li>
     <li>Setelah composer terinstal, jalankan laravel dengan command <b><i>php artisan serve</i></b></li>
