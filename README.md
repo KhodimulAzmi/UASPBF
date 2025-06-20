@@ -64,3 +64,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+## How to Install
+<ul>
+    <li>git clone repo ini ke folder yang dimau dengan cara memberikan command pada terminal <b>Git Bash</b> : git clone https://github.com/KhodimulAzmi/UASPBF.git</li>
+    <li>Masuk ke folder project dengan melakukan command <b>cd frontend-uas-230202085</b></li>
+    <li>Setelah masuk, install composer dengan memberikan command <b>composer install</b></li>
+</ul>
